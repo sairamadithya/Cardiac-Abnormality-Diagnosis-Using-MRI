@@ -5,4 +5,4 @@ opencv-python
 scikit-learn
 pandas
 radiomics
-matlploblib
+matlplotlib
