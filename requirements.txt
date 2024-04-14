@@ -1,0 +1,7 @@
+streamlit
+numpy==1.23.5
+pandas
+pyradiomics
+nibabel
+opencv-python
+scikit-learn
