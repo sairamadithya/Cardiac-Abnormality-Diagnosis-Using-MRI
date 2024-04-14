@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[33]:
-
-
 from __future__ import print_function
 import streamlit as st
 import numpy as np
