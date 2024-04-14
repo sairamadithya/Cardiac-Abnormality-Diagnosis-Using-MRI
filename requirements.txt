@@ -1,7 +1,7 @@
 streamlit
-numpy==1.23.5
-pandas
-pyradiomics
+numpy
 nibabel
 opencv-python
 scikit-learn
+pandas
+pyradiomics
