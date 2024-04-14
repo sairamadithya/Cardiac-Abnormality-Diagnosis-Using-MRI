@@ -4,4 +4,4 @@ nibabel
 opencv-python
 scikit-learn
 pandas
-pyradiomics
+radiomics
